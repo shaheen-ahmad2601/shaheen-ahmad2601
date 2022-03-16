@@ -44,7 +44,8 @@
 
 </p>
 
-<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+<h3><i>GitHub's Stats <img 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheen-ahmad2601&show_icons=true&locale=en&layout=compact" alt="shaheen-ahmad2601" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheen-ahmad2601&show_icons=true&locale=en" alt="shaheen-ahmad2601" /></p>
 
