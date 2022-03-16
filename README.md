@@ -1,4 +1,4 @@
-<img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" width="1000" height="400"> 
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shaheen Ahmad</h1>
 <h3 align="center">-- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
