@@ -15,9 +15,11 @@
 - 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **shaheen07ahmad@gmail.com**
- 📄 Know about my experiences [https://docs.google.com/document/d/1VQY8haiRojpgfsubiIVXZtTssADCvKk90DvZh0oISHU/edit?usp=sharing](https://docs.google.com/document/d/1VQY8haiRojpgfsubiIVXZtTssADCvKk90DvZh0oISHU/edit?usp=sharing)
+- 
+ 📄 Know about my experiences [https://docs.google.com/document/d/1VQY8haiRojpgfsubiIVXZtTssADCvKk90DvZh0oISHU/edit?usp=sharing]
 
-- ⚡ Fun fact **solving just one easy DSA problem and searching, How can I crack google.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
