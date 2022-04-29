@@ -11,7 +11,7 @@
   </td>
   
   <td>
-   <img src="https://protocoderspoint.com/wp-content/uploads/2020/01/First-solve-the-problem.-Then-write-the-code.jpeg?ezimgfmt=rs:382x191/rscb13/ng:webp/ngcb13" width="800" height="230" align="center"/>
+   <img src="https://protocoderspoint.com/wp-content/uploads/2020/01/First-solve-the-problem.-Then-write-the-code.jpeg?ezimgfmt=rs:382x191/rscb13/ng:webp/ngcb13" width="800" height="220" align="center"/>
   </td>
   </tr
   </thead>
