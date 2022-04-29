@@ -15,7 +15,7 @@
 - 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **shaheen07ahmad@gmail.com**
--  📄 Know about my experiences [https://docs.google.com/document/d/1VQY8haiRojpgfsubiIVXZtTssADCvKk90DvZh0oISHU/edit?usp=sharing]
+-  📄 Know about my experiences [file:///C:/Users/shahe/Downloads/Copy%20of%20Copy%20of%20MAC_FW14_285.pdf]
 
 
 
