@@ -4,14 +4,14 @@
  <thead>
  <tr>
   <td>
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shaheen Ahmad</h1>
+   <h1 align="center> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shaheen Ahmad</h1>
 <h3 align="center">=> I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen-ahmad2601&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen-ahmad2601" align="right" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen-ahmad2601&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen-ahmad2601" align="justify" /> </p>
   </td>
   
   <td>
-   <img src="https://protocoderspoint.com/wp-content/uploads/2020/01/First-solve-the-problem.-Then-write-the-code.jpeg?ezimgfmt=rs:382x191/rscb13/ng:webp/ngcb13" width="900" align="right"/>
+   <img src="https://protocoderspoint.com/wp-content/uploads/2020/01/First-solve-the-problem.-Then-write-the-code.jpeg?ezimgfmt=rs:382x191/rscb13/ng:webp/ngcb13" width="1100" align="center"/>
   </td>
   </tr
   </thead>
