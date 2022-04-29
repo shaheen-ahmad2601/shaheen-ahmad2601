@@ -50,30 +50,9 @@
 
 
 
-----------------------------------------------------------
-<h3><i>GitHub's Stats </h3>
- 
-<!--  <table>
-<tr>
-<td>
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheen-ahmad2601&show_icons=true&locale=en&layout=compact" alt="shaheen-ahmad2601" />
- </p>
-</td>
- 
- <td>
-   <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheen-ahmad2601&show_icons=true&locale=en" alt="shaheen-ahmad2601" />
- </p>
-  <td/>
-</tr>
 
-</table> -->
-<!--  --------------------------------------------------- -->
-<!-- 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheen-ahmad2601&" alt="shaheen-ahmad2601" /></p>
- </p> -->
+  
 
  <div display="flex"> 
   <p>
