@@ -29,7 +29,7 @@
 - 💬 Ask me about -  **Front and Back end operations**
 
 - 📫 How to reach me **shaheen07ahmad@gmail.com**
--  📄 Know about my experiences [https://drive.google.com/file/d/1KFRqHcwCsVZyqSgxrinwRuut4e8DToFO/view?usp=sharing]
+-  📄 Resume -  [https://drive.google.com/file/d/1UQQ2uJXRyY50d9EWrlnCgVOcFBk5nXP5/view?usp=sharing]
 
 
 
