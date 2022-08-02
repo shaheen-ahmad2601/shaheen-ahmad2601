@@ -39,9 +39,11 @@
 <p align="left">
 <a href="https://twitter.com/ronie_____" target="blank"><img align="center" src="https://image.shutterstock.com/image-photo/kiev-ukraine-may-08-2015-260nw-281364161.jpg" alt="@ronie___" height="30" width="40" /></a>
 <br/>
-<a href="https://www.linkedin.com/in/shaheen-ahmad-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaheen-ahmad-khan/" height="30" width="40" /></a>
 <br/>
-<a href="https://instagram.com/shaheen_ahmad_khan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaheen_ahmad_khan_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaheen-ahmad-khan/" target="blank"><img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/linked-in-2668692_1280__1_.png?iLytbaNXkyfhWUpdjW8tVCXWTf82TTDz&size=770:433" alt="https://www.linkedin.com/in/shaheen-ahmad-khan/" height="30" width="40" /></a>
+<br/>
+<br/>
+<a href="https://instagram.com/shaheen_ahmad_khan_" target="blank"><img align="center" src="https://www.computerhope.com/jargon/i/instagram.png" alt="shaheen_ahmad_khan_" height="30" width="40" /></a>
 </p>
 
 
