@@ -5,7 +5,7 @@
  <tr>
   <td>
    <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shaheen Ahmad</h1>
-<h3 align="center"> I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
+<div align="center">A driven and enthusiastic Full Stack Developer with a year of experience in developing dynamic and scalable web applications using MERN (MongoDB, Express, React, and Node.js) stack. Proficient in creating user-friendly and responsive user interfaces with React and integrating them with back-end systems built using Node.js and Express.</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen-ahmad2601&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen-ahmad2601" align="justify" /> </p>
   </td>
