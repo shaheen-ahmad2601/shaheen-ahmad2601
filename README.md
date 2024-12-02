@@ -24,7 +24,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/@ronie___" target="blank"><img src="https://img.shields.io/twitter/follow/@ronie___?logo=twitter&style=for-the-badge" alt="@ronie___" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 currently working as a **React Developer**
 
 - 💬 Ask me about -  **Front and Back end operations**
 
