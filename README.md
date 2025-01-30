@@ -37,8 +37,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ronie_____" target="blank"><img align="center" src="https://image.shutterstock.com/image-photo/kiev-ukraine-may-08-2015-260nw-281364161.jpg" alt="@ronie___" height="30" width="40" /> Twitter</a>
-<br/>
+
+
 <br/>
 <a href="https://www.linkedin.com/in/shaheen-ahmad-khan/" target="blank"><img align="center" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/linked-in-2668692_1280__1_.png?iLytbaNXkyfhWUpdjW8tVCXWTf82TTDz&size=770:433" alt="https://www.linkedin.com/in/shaheen-ahmad-khan/" height="30" width="40" /> LinkedIn</a>
 <br/>
