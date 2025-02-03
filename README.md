@@ -70,7 +70,7 @@
 
 <img src="https://img.shields.io/badge/kubernetes-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/jenkins-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="redux" />
 
  
  
