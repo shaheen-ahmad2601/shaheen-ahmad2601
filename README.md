@@ -63,6 +63,14 @@
  <img src="https://img.shields.io/badge/Git-593D88?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+
+<img src="https://img.shields.io/badge/aws-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/docker-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/kubernetes-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/jenkins-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+
  
  
 
