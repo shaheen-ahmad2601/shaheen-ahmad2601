@@ -64,6 +64,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
  <img src="https://img.shields.io/badge/nextjs-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/dsa-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="npm"/>
  <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
  <img src="https://img.shields.io/badge/Git-593D88?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
