@@ -52,7 +52,7 @@
 
 
 <p >
- <img src="https://img.shields.io/badge/aws-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
+ <img src="https://img.shields.io/badge/aws-E34F26?style=for-the-badge&logo=aws&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
  <img src="https://img.shields.io/badge/sql-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/docker-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="redux" />
