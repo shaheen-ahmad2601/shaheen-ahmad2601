@@ -24,9 +24,9 @@
 <!-- <p align="left"> <a href="https://twitter.com/@ronie___" target="blank"><img src="https://img.shields.io/twitter/follow/@ronie___?logo=twitter&style=for-the-badge" alt="@ronie___" /></a> </p> -->
 
 
-- 🌱 currently working as a **React Developer**
+- 🌱 Looking out for  **Frontend Developer Role**
 
-- 💬 Ask me about -  **Front and Back end operations**
+- 💬 Well versed in -  **MERN Stack | Frontend and Backend Operations**
 
 - 📫 reach out to me **shaheen07ahmad@gmail.com**
 -  📄 Resume -  [https://drive.google.com/file/d/1b1E8YgFd7AmcS7KjLt3IY5h1BVaX5d86/view?usp=sharing]
