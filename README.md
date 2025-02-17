@@ -24,12 +24,12 @@
 <!-- <p align="left"> <a href="https://twitter.com/@ronie___" target="blank"><img src="https://img.shields.io/twitter/follow/@ronie___?logo=twitter&style=for-the-badge" alt="@ronie___" /></a> </p> -->
 
 
-- 🌱 Looking out for  **Frontend Developer Role**
+- 🌱 Looking out for  **Frontend | Backend Role**
 
 - 💬 Well versed in -  **MERN Stack | Frontend and Backend Operations**
 
 - 📫 reach out to me **shaheen07ahmad@gmail.com**
--  📄 Resume -  [https://drive.google.com/file/d/1N2NSVTq5rsxhAVe_eyPv6bDAaJRvuKdr/view?usp=sharing]
+-  📄 Resume -  [https://drive.google.com/file/d/1vsh2t8r4HRwX5u8Uk6uN8HZ_QLceiF_g/view?usp=sharing]
 
 
 
