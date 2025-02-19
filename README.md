@@ -35,7 +35,6 @@
 
 
 
-https://drive.google.com/file/d/1emsfqmqHa02P4-m0-1DVKAmt-XVHwCYE/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
