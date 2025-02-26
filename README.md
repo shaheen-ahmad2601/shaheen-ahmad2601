@@ -30,9 +30,6 @@
 
 - 📫 reach out to me **shaheen2601ahmad@gmail.com**
 -  📄 Resume -  [https://drive.google.com/file/d/14demBQoGJ57z6bFuj5Rpen2KSkc9HsI0/view?usp=sharing]
-
--  Certifications
-    AWS: [https://drive.google.com/file/d/11oNB7LW9m7PFl7rcucGNA-r_Hsae2eO_/view]
 <!--  📄 Resume -  [https://drive.google.com/file/d/1BAWVCO7mYy1DHXY12J9gj6oofoQbe7E4/view?usp=sharing]-->
 
 
