@@ -29,7 +29,7 @@
 - 💬 Well versed in -  **MERN Stack | Frontend and Backend Operations**
 
 - 📫 reach out to me **shaheen2601ahmad@gmail.com**
--  📄 Resume -  [https://drive.google.com/file/d/1A0cpaeyyoNN7EW5N0JA8bina8d6BqrSY/view?usp=sharing]
+-  📄 Resume -  [https://drive.google.com/file/d/1Z7Dtng2pTcRCNRZX9jGTsHr-drLPyJ1V/view?usp=sharing]
 <!--  📄 Resume -  [https://drive.google.com/file/d/1Fw_Q9Ai5rYbVGc_ZqLG17vL4goWTQ9qQ/view?usp=sharing]-->
 
 
